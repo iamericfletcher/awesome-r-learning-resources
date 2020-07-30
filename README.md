@@ -1,4 +1,4 @@
-# R-Learning-Resources
+# <div align="center"> <p>R-Learning-Resources</p> </br> 📧  [Email](mailto:EricFletcher3@gmail.com) | 💬  [Twitter](https://twitter.com/iamericfletcher) | 👔  [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [Blog](https://ericfletcher.netlify.app/)</div>
 
 *Last updated: Thursday, July 30th, 2020*
 
