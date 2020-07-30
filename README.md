@@ -4,7 +4,9 @@
 
 Below is a list of free R learning resources I have compiled over the past six months of learning how to program. They've been crucial to me during the early stages of my growth, and I look forward to sharing them, especially with those who, like me, are new to programming. 
 
-I will continue to update this list regularly, but *please* feel free to contribute by posting your suggestions as a comment, or, if you prefer, you can send me an [email](mailto:ericfletcher3@gmail.com)!
+I will continue to update this list regularly, but *please* feel free to contribute by posting your suggestions as a comment, or, if you prefer, you can send me an [email](mailto:ericfletcher3@gmail.com)! 
+
+This list is also available on my [blog](https://ericfletcher.netlify.app/blog/r-educational-resource-list/).
 
 
 **YouTube Channels:**
