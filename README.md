@@ -78,6 +78,8 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 
 [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) by Tirthajyoti Sarkar
 
+[Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) by Winston Chang
+
 *Viz*
 
 [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
