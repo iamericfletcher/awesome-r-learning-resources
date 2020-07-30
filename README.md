@@ -78,6 +78,8 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 
 [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) by Tirthajyoti Sarkar
 
+[Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) by NIST/SEMATECH
+
 [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) by Winston Chang
 
 *Viz*
