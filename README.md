@@ -98,7 +98,19 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 
 [The R Graph Gallery](https://www.r-graph-gallery.com/) by Yan Holtz
 
+[Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) by Laura Ellis
+
 [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) by Selva Prabhakaran
+
+*Spatial*
+
+[An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) by Henry Cann
+
+[Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) by Brecht Vermeire
+
+[Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) by Laura Ellis
+
+[Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) from the math et al YoutTube channel
 
 *Wrangling*
 
