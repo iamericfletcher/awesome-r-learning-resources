@@ -1,6 +1,6 @@
 # <div align="center"> <p>R-Learning-Resources</p> </br> 📧  [Email](mailto:EricFletcher3@gmail.com) | 💬  [Twitter](https://twitter.com/iamericfletcher) | 👔  [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [Blog](https://ericfletcher.netlify.app/)</div>
 
-*Last updated: Thursday, July 30th, 2020*
+*Last updated: Friday, July 31st, 2020*
 
 Below is a list of free R learning resources I have compiled over the past six months of learning how to program. They've been crucial to me during the early stages of my growth, and I look forward to sharing them, especially with those who, like me, are new to programming. 
 
@@ -36,6 +36,8 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ)
 
 [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
+
+[Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w)
 
 [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
@@ -125,6 +127,8 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 [r-bloggers](https://www.r-bloggers.com/) by Tal Galili
 
 [r4stats](http://r4stats.com/blog/) by Bob Muenchen
+
+[Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
 
 **Communities of Practice:**
 
