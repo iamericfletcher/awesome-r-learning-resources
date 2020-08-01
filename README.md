@@ -1,6 +1,6 @@
 # <div align="center"> <p>R-Learning-Resources</p> </br> 📧  [Email](mailto:EricFletcher3@gmail.com) | 💬  [Twitter](https://twitter.com/iamericfletcher) | 👔  [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [Blog](https://ericfletcher.netlify.app/)</div>
 
-*Last updated: Friday, July 31st, 2020*
+*Last updated: Saturday, August 1st, 2020*
 
 Below is a list of free R learning resources I have compiled over the past six months of learning how to program. They've been crucial to me during the early stages of my growth, and I look forward to sharing them, especially with those who, like me, are new to programming. 
 
@@ -85,6 +85,8 @@ You can also post a comment or suggestion on my [blog](https://ericfletcher.netl
 [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) by Winston Chang
 
 *Viz*
+
+[Color Hex Color Codes](https://www.color-hex.com/) 
 
 [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
 
