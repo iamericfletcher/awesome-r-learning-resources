@@ -38,17 +38,29 @@
 ## Books
 
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) by Derek L. Sonderegger
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) by Hadley Wickham
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) by W. N. Venables, D. M. Smith and the R Core Team
-- [Answering questions with data](https://crumplab.github.io/statistics/) by Matthew J. C. Crump
+- [Answering Questions with Data](https://crumplab.github.io/statistics/) by Matthew J. C. Crump
 - [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) by Roger D. Peng
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) by Hadley Wickham
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) by Gaston Sanchez
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
+- [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) by Julian Faraway
+- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) by Charles DiMaggio, PhD
 - [R Cookbook, 2nd Edition](https://rc2e.com/index.html) by James (JD) Long, Paul Teetor
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund, Hadley Wickham
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) by Jeffrey B. Arnold
+- [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) by Charles DiMaggio, PhD
+- [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+- [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger Peng
+- [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) by WikiBooks
+- [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
+- [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
+- [The Caret Package](http://topepo.github.io/caret/index.html) by Max Kuhn
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) byPatrick Burns
+- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) by the Authors of R
 - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) Edited by Garrett Grolemund
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips
 
@@ -56,12 +68,14 @@
 ## Articles
 
 *Math*
+
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) by Salvatore S. Mangiafico
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) by Tirthajyoti Sarkar
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) by NIST/SEMATECH
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) by Winston Chang
 
 *Viz*
+
 - [Color Hex Color Codes](https://www.color-hex.com/) 
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) maintained by Daniel Emaasit
@@ -73,12 +87,14 @@
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) by Selva Prabhakaran
 
 *Spatial*
+
 - [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) by Henry Cann
 - [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) by Brecht Vermeire
 - [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) by Laura Ellis
 - [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) from the math et al YoutTube channel
 
 *Wrangling*
+
 - [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) by Suzan Baert
 - [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/) by Suzan Baert
 - [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) by Suzan Baert
@@ -93,11 +109,12 @@
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) by Rebecca Barter
 - [https://juliasilge.com/blog/](https://juliasilge.com/blog/) by Julia Silge
 - [r-bloggers](https://www.r-bloggers.com/) by Tal Galili
-- [r4stats](http://r4stats.com/blog/) by Bob Muenchen
+- [r4stats](http://r4stats.com/blog/) by Bob Muenchen 
 - [Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
 
 ## Communities of Practice
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
 
 ## Other
-- [Fakir: Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
+- [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
+- [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
