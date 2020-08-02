@@ -15,7 +15,7 @@
 4. [Podcasts](#podcasts)
 5. [Blogs](#blogs)
 6. [Communities of Practice](#communities-of-practice)
-7. [GitHub](#github)
+7. [Other](#other)
 
 ## YouTube Channels
 
@@ -99,5 +99,5 @@
 ## Communities of Practice
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
 
-## GitHub
-[Fakir - Create Fake Data in R for Tutorials]([https://github.com/ThinkR-open/fakir) by Colin Fay
+## Other
+- [Fakir: Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
