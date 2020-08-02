@@ -1,12 +1,12 @@
-# <div align="center"> <p>R-Learning-Resources</p> </br> 📧  [Email](mailto:EricFletcher3@gmail.com) | 💬  [Twitter](https://twitter.com/iamericfletcher) | 👔  [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [Blog](https://ericfletcher.netlify.app/)</div>
+# <div align="center"> <p>R-Learning-Resources</p> </br> 
 
 *Last updated: Saturday, August 1st, 2020*
 
-Below is a list of free R learning resources I have compiled over the past six months of learning how to program. They've been crucial to me during the early stages of my growth, and I look forward to sharing them, especially with those who, like me, are new to programming. 
+Curated **R** videos, books, papers, articles, and blogs.
 
-I will continue to update this list regularly, but *please* feel free to contribute your suggestions by sending me an [email](mailto:ericfletcher3@gmail.com)! 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) ![HitCount](http://hits.dwyl.com/iamericfletcher/R-Learning-Resources.svg) 
 
-You can also post a comment or suggestion on my [blog](https://ericfletcher.netlify.app/blog/r-educational-resource-list/).
+**Please** feel free to [contribute your suggestions](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
 
 
 **YouTube Channels:**
