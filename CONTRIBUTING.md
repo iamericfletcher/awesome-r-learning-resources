@@ -7,8 +7,9 @@
 ```
 - [Title of Paper, Article, Blog](url) `Organization/Author`
 
-Please include a note with the section / subsection the learning resource should be included in. It's fine to suggest a new section as well!
 ```
+- Please include a note with the section / subsection the learning resource should be included in. It's fine to suggest a new section as well!
+
 
 Thank you for contributing to this repository! 🙇‍♂️
 
