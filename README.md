@@ -53,14 +53,13 @@
 
 ## Articles
 
-+ *Math*
+*Math*
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) by Salvatore S. Mangiafico
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) by Tirthajyoti Sarkar
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) by NIST/SEMATECH
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) by Winston Chang
 
-+ *Viz*
-
+*Viz*
 - [Color Hex Color Codes](https://www.color-hex.com/) 
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) maintained by Daniel Emaasit
@@ -71,15 +70,13 @@
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) by Laura Ellis
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) by Selva Prabhakaran
 
-+ *Spatial*
-
+*Spatial*
 - [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) by Henry Cann
 - [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) by Brecht Vermeire
 - [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) by Laura Ellis
 - [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) from the math et al YoutTube channel
 
-+ *Wrangling*
-
+*Wrangling*
 - [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) by Suzan Baert
 - [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/) by Suzan Baert
 - [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) by Suzan Baert
