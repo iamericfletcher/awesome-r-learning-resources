@@ -6,8 +6,16 @@
 
 **Please** feel free to [contribute your suggestions](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
 
+**Table of Contents**
 
-**YouTube Channels:**
+1. [YouTube Channels](#youtube-channels)
+2. [Books](#books)
+3. [Articles](#articles)
+4. [Podcasts](#podcasts)
+5. [Blogs](#blogs)
+6. [Communities of Practice](#communities-of-practice)
+
+## YouTube Channels
 
 [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ)
 
@@ -39,7 +47,7 @@
 
 [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
-**Books:**
+## Books
 
 [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) by Derek L. Sonderegger
 
@@ -70,7 +78,7 @@
 [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips
 
 
-**Articles:**
+## Articles
 
 *Math*
 
@@ -122,11 +130,11 @@
 
 [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/) by Suzan Baert
 
-**Podcasts:**
+## Podcasts
 
 [Not so Standard Deviations](http://nssdeviations.com/) by Roger Peng and Hilary Parker
 
-**Blogs:**
+## Blogs
 
 [Cédric Scherer](https://cedricscherer.netlify.app/)
 
@@ -142,6 +150,6 @@
 
 [Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
 
-**Communities of Practice:**
+## Communities of Practice
 
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday) created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
