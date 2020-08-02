@@ -1,4 +1,4 @@
-# <div align="center"> <p>R-Learning-Resources</p> </br> Curated videos, books, papers, articles, podcasts, and blogs.
+# <div align="center"> <p>R-Learning-Resources</p> </br> Curated videos, books, papers, articles, podcasts, blogs, etc.
 
 *Last updated: Saturday, August 1st, 2020*
 
