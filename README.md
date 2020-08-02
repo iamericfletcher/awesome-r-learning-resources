@@ -1,4 +1,5 @@
-# <div align="center"> <p>R-Learning-Resources</p> </br> Curated videos, books, papers, articles, podcasts, blogs, etc.
+# <div align="center"> <p>R-Learning-Resources</p> 
+**Curated videos, books, papers, articles, podcasts, blogs, etc.**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources)
 
