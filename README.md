@@ -1,6 +1,6 @@
 # <div align="center"> <p>R-Learning-Resources</p> </br> Curated videos, books, papers, articles, podcasts, blogs, etc.
 
-*Last updated: Saturday, August 1st, 2020*
+![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![HitCount](http://hits.dwyl.com/iamericfletcher/R-Learning-Resources.svg)](http://hits.dwyl.com/iamericfletcher/R-Learning-Resources)
 
