@@ -12,5 +12,3 @@
 
 
 Thank you for contributing to this repository! 🙇‍♂️
-
-Credit: [applied-ml](https://github.com/eugeneyan/applied-ml)
