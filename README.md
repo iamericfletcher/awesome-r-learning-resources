@@ -1,4 +1,4 @@
-# <div align="center"> <p>R-Learning-Resources</p> 
+# <div align="center"> <p>Awesome R Learning Resources</p> 
 **Curated videos, books, papers, articles, podcasts, blogs, etc.**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
