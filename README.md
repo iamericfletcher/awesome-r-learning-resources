@@ -1,4 +1,4 @@
-# <div align="center"> <p>Awesome R Learning Resources</p> 
+# <div align="center"> <p>Awesome R Learning Resources</p> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 **Curated videos, books, papers, articles, podcasts, blogs, etc. to help deepen your understanding of the R programming language.**
 
 Please feel free to [contribute your suggestions](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
