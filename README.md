@@ -6,7 +6,7 @@
 
 **Please** feel free to [contribute your suggestions](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
 
-**Table of Contents**
+**Contents**
 
 1. [YouTube Channels](#youtube-channels)
 2. [Books](#books)
