@@ -76,6 +76,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 *Viz*
 
 - [Color Hex Color Codes](https://www.color-hex.com/) 
+- [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) by Alboukadel Kassambara
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) maintained by Daniel Emaasit
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html)
