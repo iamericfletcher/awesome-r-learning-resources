@@ -51,6 +51,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund, Hadley Wickham
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) by Jeffrey B. Arnold
 - [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) by Charles DiMaggio, PhD
+- [R Language for Programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
 - [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
 - [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger Peng
 - [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) by WikiBooks
@@ -117,6 +118,5 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 
 ## Other
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
-- [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
