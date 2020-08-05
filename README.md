@@ -118,3 +118,5 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 ## Other
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
 - [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
+- [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
+- [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
