@@ -76,6 +76,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 
 *Viz*
 
+- [Chart Suggestions — A Thught-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) 
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) by Alboukadel Kassambara
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
@@ -83,6 +84,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html)
 - [paletteer](https://emilhvitfeldt.github.io/paletteer/) maintained by Emil Hvitfeldt
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) by Severino Ribecca
+- [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) by Jonathan Schwabish, and Severino Ribecca
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) by Yan Holtz
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) by Laura Ellis
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) by Selva Prabhakaran
