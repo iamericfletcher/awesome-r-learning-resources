@@ -21,6 +21,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ)
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos)
 - [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ)
+- [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
 - [datascienceR](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
 - [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA)
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
