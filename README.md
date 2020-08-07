@@ -55,6 +55,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [R Language for Programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
 - [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
 - [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger Peng
+- [R Programming Tutorial](http://datantools.com/r-programming/getting-started-with-r-language/) by Data & Tools
 - [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) by WikiBooks
 - [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
 - [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
@@ -120,6 +121,8 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
 
 ## Other
+- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) by Atrebas
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
+- [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) by Hugo Tavares
