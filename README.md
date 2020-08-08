@@ -29,6 +29,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Karandeep Singh](https://www.youtube.com/channel/UC7eRNr1Pprls2aU5WWPz15Q)
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A)
 - [LearnR](https://www.youtube.com/c/TheLearnR/videos)
+- [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos)
 - [Roger Peng](https://www.youtube.com/channel/UCZA0RbbSK1IXeeJysKYRWuQ)
 - [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ)
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
