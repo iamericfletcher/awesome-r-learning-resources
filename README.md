@@ -16,7 +16,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 6. [Communities of Practice](#communities-of-practice)
 7. [Other](#other)
 
-## YouTube Channels
+## YouTube and Twitch
 
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ)
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos)
