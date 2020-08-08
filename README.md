@@ -8,7 +8,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 
 **Contents**
 
-1. [YouTube Channels](#youtube-channels)
+1. [YouTube and Twitch](#youtube-and-twitch)
 2. [Books](#books)
 3. [Articles](#articles)
 4. [Podcasts](#podcasts)
@@ -29,6 +29,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Karandeep Singh](https://www.youtube.com/channel/UC7eRNr1Pprls2aU5WWPz15Q)
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A)
 - [LearnR](https://www.youtube.com/c/TheLearnR/videos)
+- [nickwan_datasci](https://www.twitch.tv/nickwan_datasci/videos?filter=all&sort=time)
 - [Roger Peng](https://www.youtube.com/channel/UCZA0RbbSK1IXeeJysKYRWuQ)
 - [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ)
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
