@@ -25,6 +25,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [datascienceR](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
 - [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA)
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
+- [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss)
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [Karandeep Singh](https://www.youtube.com/channel/UC7eRNr1Pprls2aU5WWPz15Q)
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A)
@@ -110,6 +111,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Not so Standard Deviations](http://nssdeviations.com/) by Roger Peng and Hilary Parker
 
 ## Blogs
+- [Avery Robbins](https://www.avery-robbins.com)
 - [Cédric Scherer](https://cedricscherer.netlify.app/)
 - [Data Imaginist](https://www.data-imaginist.com/) by Thomas Lin Pedersen
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) by Rebecca Barter
