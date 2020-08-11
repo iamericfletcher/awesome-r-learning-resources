@@ -115,7 +115,8 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Cédric Scherer](https://cedricscherer.netlify.app/)
 - [Data Imaginist](https://www.data-imaginist.com/) by Thomas Lin Pedersen
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) by Rebecca Barter
-- [https://juliasilge.com/blog/](https://juliasilge.com/blog/) by Julia Silge
+- [HighlandR](https://johnmackintosh.net/) by John Mackintosh
+- [Julia Silge](https://juliasilge.com/blog/)
 - [r-bloggers](https://www.r-bloggers.com/) by Tal Galili
 - [r4stats](http://r4stats.com/blog/) by Bob Muenchen 
 - [Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
