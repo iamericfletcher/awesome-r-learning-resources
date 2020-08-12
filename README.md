@@ -120,6 +120,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Julia Silge](https://juliasilge.com/blog/)
 - [r-bloggers](https://www.r-bloggers.com/) by Tal Galili
 - [r4stats](http://r4stats.com/blog/) by Bob Muenchen 
+- [Ryo Nakagawara](https://ryo-n7.github.io/)
 - [Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
 
 ## Communities of Practice
