@@ -35,6 +35,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ)
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w)
+- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
 ## Books
