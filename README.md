@@ -20,6 +20,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ)
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos)
+- [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA)
 - [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ)
 - [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
 - [datascienceR](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
