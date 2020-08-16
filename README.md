@@ -65,7 +65,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
 - [The Caret Package](http://topepo.github.io/caret/index.html) by Max Kuhn
-- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) byPatrick Burns
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) by the Authors of R
 - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) Edited by Garrett Grolemund
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips
@@ -123,6 +123,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [r4stats](http://r4stats.com/blog/) by Bob Muenchen 
 - [Ryo Nakagawara](https://ryo-n7.github.io/)
 - [Statistics Globe](https://statisticsglobe.com/) by Joachim Schork
+- [R Coder](https://r-coder.com/) by J.C. Soage
 
 ## Communities of Practice
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
