@@ -47,6 +47,7 @@
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) by Hadley Wickham
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) by Gaston Sanchez
+- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) by Professor Robert Hijmans
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) by Julian Faraway
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) by Charles DiMaggio, PhD
