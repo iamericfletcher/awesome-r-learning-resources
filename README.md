@@ -41,7 +41,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 
 ## Books
 
-- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) by Derek L. Sonderegger
+- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - a blog by Derek L. Sonderegger
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) by Hadley Wickham
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) by W. N. Venables, D. M. Smith and the R Core Team
