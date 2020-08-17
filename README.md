@@ -130,7 +130,9 @@
 ## Other
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) by Atrebas
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
-- [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) by Harold Abelson and
+Gerald Jay Sussman
+with Julie Sussman- [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) by Hugo Tavares
 - [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) by V. Anton Spraul
