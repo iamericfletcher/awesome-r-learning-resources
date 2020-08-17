@@ -133,3 +133,4 @@
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) by Hugo Tavares
+- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) by V. Anton Spraul
