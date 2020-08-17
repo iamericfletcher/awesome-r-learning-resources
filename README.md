@@ -1,10 +1,11 @@
 # <div align="center"> <p>Awesome R Learning Resources</p>![b3236f92-5a24-4348-b877-b5a3363c6468_200x200](https://user-images.githubusercontent.com/64165327/89210000-53b99e00-d58d-11ea-862e-25239e1fdd56.png)
-**Curated videos, books, papers, articles, podcasts, blogs, etc. to help deepen your understanding of the R programming language.**
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   
+**Curated videos, books, papers, articles, podcasts, blogs, etc. to help deepen your understanding of the R programming language.**
 
 Please feel free to [contribute your suggestions](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 
 **Contents**
 
