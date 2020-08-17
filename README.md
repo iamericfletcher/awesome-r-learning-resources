@@ -81,7 +81,7 @@
 
 *Viz*
 
-- [Chart Suggestions — A Thught-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela, Ph.D.
+- [Chart Suggestions — A Thought-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) 
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) by Alboukadel Kassambara
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
