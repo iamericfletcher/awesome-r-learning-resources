@@ -21,7 +21,6 @@
 - [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA)
 - [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ)
 - [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
-- [datascienceR](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)
 - [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA)
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
 - [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss)
