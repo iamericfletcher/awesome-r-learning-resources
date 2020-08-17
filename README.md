@@ -1,5 +1,7 @@
-# <div align="center"> <p>Awesome R Learning Resources</p>![b3236f92-5a24-4348-b877-b5a3363c6468_200x200](https://user-images.githubusercontent.com/64165327/89210000-53b99e00-d58d-11ea-862e-25239e1fdd56.png)
+# <div align="center"> <p>Awesome R Learning Resources</p>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  
+# <div align="center"> <p>![b3236f92-5a24-4348-b877-b5a3363c6468_200x200](https://user-images.githubusercontent.com/64165327/89210000-53b99e00-d58d-11ea-862e-25239e1fdd56.png)</p>
   
 **Curated videos, books, papers, articles, podcasts, blogs, etc. to help deepen your understanding of the R programming language.**
 
