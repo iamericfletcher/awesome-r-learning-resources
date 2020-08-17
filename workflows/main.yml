@@ -1,2 +1,0 @@
-- name: awesome-lint versionless
-  uses: jthegedus/github-action-awesome-lint@v0.1.0
