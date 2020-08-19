@@ -16,7 +16,6 @@
 
 ## YouTube
 
-<<<<<<< HEAD
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - YouTube channel created by Andrew Couch.
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - YouTube channel created by Ben Stenhaug.
 - [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA) - YouTube channel created by Colin Quirk.
@@ -36,27 +35,6 @@
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) - YouTube channel created by Joachim Schork.
 - [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - YouTube channel created by Josh Starmer.
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ) - YouTube channel created by Ellis Hughes and Patrick Ward.
-=======
-- [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - YouTube channel created by Andrew Couch
-- [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - YouTube channel created by Ben Stenhaug
-- [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA) - YouTube channel created by Colin Quirk
-- [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - YouTube channel created by David Robinson
-- [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - YouTube channel created by Tom
-- [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - YouTube channel created by David Jablonski
-- [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - YouTube channel created by David Robinson
-- [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) - YouTube channel created by Kevin O'Brien
-- [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - YouTube channel created by Julia Silge
-- [Karandeep Singh](https://www.youtube.com/channel/UC7eRNr1Pprls2aU5WWPz15Q) - YouTube channel created by Karandeep Singh
-- [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A) - YouTube channel created by Jared Lander
-- [Numyard](https://www.youtube.com/c/TheLearnR/videos) - YouTube channel created by the folks at Numyard 
-- [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) - YouTube channel created by Richard Webster
-- [Roger Peng](https://www.youtube.com/channel/UCZA0RbbSK1IXeeJysKYRWuQ) - YouTube channel created by Roger Peng
-- [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ) - YouTube channel created by Ronak Shah 
-- [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) - YouTube channel created by the folks at Simplilearn
-- [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) - YouTube channel created by Joachim Schork
-- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - YouTube channel created by Josh Starmer
-- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ) - YouTube channel created by Ellis Hughes and Patrick Ward
->>>>>>> 7f095e2505c49f3060613f8a67b5cebb3cbc116d
 
 ## Books
 
