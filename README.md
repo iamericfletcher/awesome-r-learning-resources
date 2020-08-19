@@ -47,6 +47,7 @@
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) by Hadley Wickham
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) by Gaston Sanchez
+- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) by Professor Robert Hijmans
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) by Julian Faraway
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) by Charles DiMaggio, PhD
@@ -80,7 +81,7 @@
 
 *Viz*
 
-- [Chart Suggestions — A Thught-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela, Ph.D.
+- [Chart Suggestions — A Thought-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) 
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) by Alboukadel Kassambara
 - [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz
@@ -129,6 +130,9 @@
 ## Other
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) by Atrebas
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) by Colin Fay
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) by Harold Abelson and
+Gerald Jay Sussman with Julie Sussman
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/)
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/)
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) by Hugo Tavares
+- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) by V. Anton Spraul
