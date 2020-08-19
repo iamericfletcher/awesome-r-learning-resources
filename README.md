@@ -67,8 +67,7 @@
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Author: Patrick Burns.
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - By the Authors of R.
 - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) - Edited by Garrett Grolemund.
-- [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - Author: Nathaniel D. Phillips.
-
+- [YaRrr! The Pirates Guide to R](https://bookdown.org/ndphillips/YaRrr/) - Author: Nathaniel Phillips.
 
 ## Articles
 
@@ -87,7 +86,7 @@
 - [From Data to Viz](https://www.data-to-viz.com/) - By Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - By the developers of Tidyverse.
-- [paletteer](https://emilhvitfeldt.github.io/paletteer/) Maintained by Emil Hvitfeldt.
+- [paletteer](https://emilhvitfeldt.github.io/paletteer/) - Maintained by Emil Hvitfeldt.
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - By Severino Ribecca.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - By Jonathan Schwabish, and Severino Ribecca.
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) - By Yan Holtz.
@@ -125,7 +124,7 @@
 - [Statistics Globe](https://statisticsglobe.com/) - By Joachim Schork.
 
 ## Communities of Practice
-- [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - Created by Thomas Mock. TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem. 
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## Other
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - By Atrebas.
