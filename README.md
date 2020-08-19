@@ -38,36 +38,36 @@
 
 ## Books
 
-- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) by Derek L. Sonderegger
-- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-- [Advanced R](https://adv-r.hadley.nz/introduction.html) by Hadley Wickham
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) by W. N. Venables, D. M. Smith and the R Core Team
-- [Answering Questions with Data](https://crumplab.github.io/statistics/) by Matthew J. C. Crump
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) by Roger D. Peng
-- [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow
-- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) by Hadley Wickham
-- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) by Gaston Sanchez
-- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) by Professor Robert Hijmans
-- [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
-- [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) by Julian Faraway
-- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) by Charles DiMaggio, PhD
-- [R Cookbook, 2nd Edition](https://rc2e.com/index.html) by James (JD) Long, Paul Teetor
-- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund, Hadley Wickham
-- [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) by Jeffrey B. Arnold
-- [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) by Charles DiMaggio, PhD
-- [R Language for Programmers](https://www.johndcook.com/blog/r_language_for_programmers) by John Cook
-- [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
-- [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger Peng
-- [R Programming Tutorial](http://datantools.com/r-programming/getting-started-with-r-language/) by Data & Tools
-- [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) by WikiBooks
-- [Statistical Inference via Data Science](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
-- [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
-- [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) by Norman Matloff
-- [The Caret Package](http://topepo.github.io/caret/index.html) by Max Kuhn
-- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
-- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) by the Authors of R
-- [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) Edited by Garrett Grolemund
-- [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) by Nathaniel D. Phillips
+- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - by Derek L. Sonderegger.
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+- [Advanced R](https://adv-r.hadley.nz/introduction.html) - by Hadley Wickham.
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - by W. N. Venables, D. M. Smith and the R Core Team.
+- [Answering Questions with Data](https://crumplab.github.io/statistics/) - by Matthew J. C. Crump.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - by Roger D. Peng.
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) - by Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - by Hadley Wickham.
+- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - by Gaston Sanchez.
+- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - by Professor Robert Hijmans.
+- [Learning Statistics with R](https://learningstatisticswithr.com/) - by Danielle Navarro.
+- [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - by Julian Faraway.
+- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - by Charles DiMaggio, PhD.
+- [R Cookbook, 2nd Edition](https://rc2e.com/index.html) - by James (JD) Long, Paul Teetor.
+- [R for Data Science](https://r4ds.had.co.nz/) - by Garrett Grolemund, Hadley Wickham.
+- [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - by Jeffrey B. Arnold.
+- [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) - by Charles DiMaggio, PhD.
+- [R Language for Programmers](https://www.johndcook.com/blog/r_language_for_programmers) - by John Cook.
+- [R Packages](http://r-pkgs.had.co.nz/) - by Hadley Wickham.
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - by Roger Peng.
+- [R Programming Tutorial](http://datantools.com/r-programming/getting-started-with-r-language/) - by Data & Tools.
+- [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - by WikiBooks.
+- [Statistical Inference via Data Science](https://moderndive.com/) - by Chester Ismay and Albert Y. Kim.
+- [Text Mining with R](https://www.tidytextmining.com/) - by Julia Silge and David Robinson.
+- [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - by Norman Matloff.
+- [The Caret Package](http://topepo.github.io/caret/index.html) - by Max Kuhn.
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - by Patrick Burns.
+- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - by the Authors of R.
+- [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) - Edited by Garrett Grolemund.
+- [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - by Nathaniel D. Phillips.
 
 
 ## Articles
