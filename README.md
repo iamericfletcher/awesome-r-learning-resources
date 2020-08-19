@@ -19,7 +19,7 @@
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - YouTube channel created by Andrew Couch
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - YouTube channel created by Ben Stenhaug
 - [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA) - YouTube channel created by Colin Quirk
-- [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - YouTube channel created by David Robinson with videos for the online course Data Analysis and Visualization Using R
+- [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - YouTube channel created by David Robinson
 - [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - YouTube channel created by Tom
 - [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - YouTube channel created by David Jablonski
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - YouTube channel created by David Robinson
