@@ -6,7 +6,7 @@
 
 ## **Contents**
 
-- [Articles, Presentations, Slides, GitHub Lists, Etc.](#articles-presentations-slides-gitHub-lists-etc.)
+- [Articles, Presentations, Slides, GitHub Lists, Etc.](#articles,-presentations,-slides,-gitHub-lists,-etc.)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Communities of Practice](#communities-of-practice)
