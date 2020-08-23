@@ -17,9 +17,6 @@
 
 ## Articles and GitHub Lists
 
-*General*
-- [List of courses teaching R](https://github.com/rstudio-education/rstats-ed) - University, workshops, short courses, modules, and online courses teaching R (created by Mine Cetinkaya-Rundel).
-
 *Math*
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - By Salvatore S. Mangiafico.
