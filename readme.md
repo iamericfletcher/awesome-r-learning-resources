@@ -150,3 +150,5 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Contributing
 - Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
+
+[Back to Top](#contents)
