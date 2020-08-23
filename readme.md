@@ -61,6 +61,7 @@
 
 ## Blogs
 - [Avery Robbins](https://www.avery-robbins.com) - By Avery Robbins.
+- [Tony ElHabr](https://tonyelhabr.rbind.io/) - By Tony ElHabr.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - By Cédric Scherer.
 - [Data Imaginist](https://www.data-imaginist.com/) - By Thomas Lin Pedersen.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) - By Rebecca Barter.
