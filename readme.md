@@ -61,6 +61,16 @@
 - [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) - By Suzan Baert.
 - [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/) - By Suzan Baert.
 
+*Other*
+
+- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - By Atrebas.
+- [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - Authors: Harold Abelson and
+Gerald Jay Sussman with Julie Sussman.
+- [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - Reddit Subreddit.
+- [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - Reddit Subreddit.
+- [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - By Hugo Tavares.
+- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) - Author: V. Anton Spraul.
 
 ## Blogs
 - [Avery Robbins](https://www.avery-robbins.com) - By Avery Robbins.
@@ -138,16 +148,6 @@
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) - YouTube channel created by Joachim Schork.
 - [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - YouTube channel created by Josh Starmer.
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ) - YouTube channel created by Ellis Hughes and Patrick Ward.
-
-## Other
-- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - By Atrebas.
-- [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
-- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - Authors: Harold Abelson and
-Gerald Jay Sussman with Julie Sussman.
-- [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - Reddit Subreddit.
-- [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - Reddit Subreddit.
-- [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - By Hugo Tavares.
-- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) - Author: V. Anton Spraul.
 
 ## Contributing
 - Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
