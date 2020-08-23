@@ -6,7 +6,7 @@
 
 ## **Contents**
 
-- [Articles, Presentations, Slides, GitHub Lists, Etc.](#articles-presentations-slides-gitHub-lists-etc.)
+- [Subjects](#subjects)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Communities of Practice](#communities-of-practice)
@@ -15,7 +15,7 @@
 - [Other](#other)
 - [Contributing](#contributing)
 
-## Articles, Presentations, Slides, GitHub Lists, Etc.
+## Subjects
 
 *Functions*
 - [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - By the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
