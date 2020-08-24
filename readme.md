@@ -125,7 +125,7 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Podcasts
 - [Not so Standard Deviations](http://nssdeviations.com/) - By Roger Peng and Hilary Parker.
-- [The R-Podcast](https://r-podcast.org/) - By Roger Peng and Hilary Parker.
+- [The R-Podcast](https://r-podcast.org/) - By Eric Nantz.
 
 ## YouTube
 
