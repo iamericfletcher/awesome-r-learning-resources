@@ -100,6 +100,7 @@ Gerald Jay Sussman with Julie Sussman.
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - Author: Gaston Sanchez.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - Author: Professor Robert Hijmans.
 - [Learning Statistics with R](https://learningstatisticswithr.com/) - Author: Danielle Navarro.
+- [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/index.html#the-author) - Author: Bruno Rodrigues.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Author: Julian Faraway.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Author: Charles DiMaggio, PhD.
 - [R Cookbook, 2nd Edition](https://rc2e.com/index.html) - Authors: James (JD) Long, Paul Teetor.
