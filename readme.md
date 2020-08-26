@@ -46,6 +46,7 @@
 - [From Data to Viz](https://www.data-to-viz.com/) - By Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - By the developers of Tidyverse.
+- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/#facets) - By Antoine Soetewey.
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r created by Emil Hvitfeldt.
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - By Severino Ribecca.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - By Jonathan Schwabish, and Severino Ribecca.
