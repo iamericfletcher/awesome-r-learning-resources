@@ -17,7 +17,7 @@
 ## Subjects
 
 *Functions*
-- [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
+- [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
 
 *Math*
 
