@@ -1,6 +1,7 @@
 ## Contribution Guide
 
 - Have a favorite piece you're not seeing here? Want to contribute? Make a [pull request (PR)](https://github.com/iamericfletcher/R-Learning-Resources/pulls)! 😄
+
 - Before creating a PR, you should ensure that:
 
 1. Your suggestion is related to the `R` programming language.
