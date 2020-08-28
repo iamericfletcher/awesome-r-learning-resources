@@ -17,14 +17,14 @@
 ## Subjects
 
 *Functions*
-- [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - By the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
+- [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
 
 *Math*
 
-- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - By Salvatore S. Mangiafico.
-- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - By Tirthajyoti Sarkar.
+- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. By Salvatore S. Mangiafico.
+- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathmatical topics to master to become a better data scientist. By Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - By NIST/SEMATECH.
-- [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - By Winston Chang.
+- [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - A tutorial for plotting a distribution of data. By Winston Chang.
 
 *Spatial*
 
@@ -40,19 +40,19 @@
 *Viz*
 
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. (created by Erik Gahner Larsen).
-- [Chart Suggestions — A Thought-Starter](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - By Andrew Abela, Ph.D.
+- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - By Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) - By the people at Color-Hex.
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - By Alboukadel Kassambara.
-- [From Data to Viz](https://www.data-to-viz.com/) - By Yan Holtz.
+- [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. By Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
-- [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - By the developers of Tidyverse.
-- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/#facets) - By Antoine Soetewey.
+- [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in `ggplot2`. By the developers of Tidyverse.
+- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/#facets) - A detailed guide for the use of graphics within `ggplot2`. By Antoine Soetewey.
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r created by Emil Hvitfeldt.
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - By Severino Ribecca.
-- [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - By Jonathan Schwabish, and Severino Ribecca.
-- [The R Graph Gallery](https://www.r-graph-gallery.com/) - By Yan Holtz.
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a library of different information visualisation types.
+- [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. By Jonathan Schwabish, and Severino Ribecca.
+- [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. By Yan Holtz.
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - By Laura Ellis.
-- [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - By Selva Prabhakaran.
+- [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. By Selva Prabhakaran.
 
 *Wrangling*
 
