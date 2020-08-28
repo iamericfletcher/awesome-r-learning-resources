@@ -10,14 +10,14 @@
 
 3. Your suggestion should be added alphabetically by title to the appropriate category if it already exists. If needed, feel free to include a new category.
 
-4. Your suggestion should be in the format [Article name](link) - Authors - Small description.
+4. Your suggestion should be in the format [Article name](link) - Small description with author(s) listed.
 
 5. There are no spelling or grammatical errors.
 
 - New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
 
 ```
-- [Title of Paper, Article, Blog](url) `Organization/Author`
+- [Title of Paper, Article, Blog](url) `Small description/Author(s)`
 
 ```
 Thank you for contributing to this repository! 🙇‍♂️
