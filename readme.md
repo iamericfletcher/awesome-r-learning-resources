@@ -83,7 +83,7 @@
 - [Julia Silge](https://juliasilge.com/blog/) - Julia Silge is a data scientist and software engineer at RStudio where she work on open source modeling tools. She is passionate about making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
 - [rweekly](https://rweekly.org/about) - Weekly Updates from the Entire R Community by Bruce Zhao, Colin Fay, Eric Nantz, Hao Zhu, Jon Calder, Jonathan Carroll, Maëlle Salmon, Ryo Nakagawara, and Wolfram Qin.
 - [r-bloggers](https://www.r-bloggers.com/) - R-Bloggers.com was created by Tal Galili and is a blog aggregator of content contributed by bloggers who write about R (in English). The site helps R bloggers and users to connect and follow the R blogosphere.
-- [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and for the past 2.5 years has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI and VOCA’s data pipeline and create R packages, reproducible reports, dashboards, Shiny apps to communicate how his projects worldwide are progressing.
+- [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI and VOCA data pipelines, create R packages, reproducible reports, dashboards, and Shiny apps to communicate how his projects worldwide are progressing.
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 
 ### Books
