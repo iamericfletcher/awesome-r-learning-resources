@@ -1,5 +1,7 @@
 # <div align="center">Awesome R Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
  
+ <img src="https://user-images.githubusercontent.com/64165327/91648068-154ebc00-ea31-11ea-87ac-9aa3698bdbba.png" align="right" width="90">
+ 
  > Useful `R` learning resources and is meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.
  
 `R` is a programming language and environment for statistical computing and graphics.
