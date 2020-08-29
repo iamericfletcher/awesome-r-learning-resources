@@ -1,5 +1,7 @@
 # <div align="center">Awesome R Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
  
+ <img src="https://user-images.githubusercontent.com/64165327/91646694-eb40ce00-ea1f-11ea-9096-2f66613c40b0.png" align="right" width="90">
+ 
 **Curated collection of resources to help deepen your understanding of the R programming language.**
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
@@ -68,12 +70,10 @@
 
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of `R` packages `data.table` and `dplyr` by Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
-- [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - A computer science textbook that covers fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. Authors: Harold Abelson and
-Gerald Jay Sussman with Julie Sussman.
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the `R` programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using `R` for statistical computing.
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of `base R` and `tidyverse` by Hugo Tavares.
-- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) - Author V. Anton Spraul breaks down the ways that programmers solve problems.
+
 
 ## Blogs
 
