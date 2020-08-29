@@ -16,7 +16,7 @@
 
 ## Topics
 
-> R Learning resources grouped by topic.
+> R learning resources grouped by topic.
 
 *Functions*
 - [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
@@ -79,21 +79,19 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Blogs
 
-> Blogs that will help you improve your R programming skills.
+> Blogs that help strengthen your skills and understanding of the R programming language.  
 
-- [Avery Robbins](https://www.avery-robbins.com) - By Avery Robbins.
-- [Tony ElHabr](https://tonyelhabr.rbind.io/) - By Tony ElHabr.
-- [Cédric Scherer](https://cedricscherer.netlify.app/) - By Cédric Scherer.
-- [Data Imaginist](https://www.data-imaginist.com/) - By Thomas Lin Pedersen.
-- [Data meets Narrative](http://www.rebeccabarter.com/blog/) - By Rebecca Barter.
-- [HighlandR](https://johnmackintosh.net/) - By John Mackintosh.
-- [Julia Silge](https://juliasilge.com/blog/) - By Julia Silge.
+- [Avery Robbins](https://www.avery-robbins.com) - Avery loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
+- [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
+- [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
+- [Data Imaginist](https://www.data-imaginist.com/) - By Thomas Lin Pedersen, a former bioinformatician/computational biologist turned data scientist turned software engineer who focuses on improving researchers interactions with the data they produce. 
+- [Data meets Narrative](http://www.rebeccabarter.com/blog/) - By Rebecca Barter, who enjoys making sense of complex, messy and sometimes nonsensical datasets, such as electronic health records, and insurance claims. Her dual passions are explaining “seemingly complicated” concepts to others in plain English, and exploring and uncovering the stories that underlie complex datasets.
+- [HighlandR](https://johnmackintosh.net/) - By John Mackintosh. His blog is a place for him to showcase demonstrations or workshops, notes he's learned at work, chart makeovers, and techniques and technology that he doesn't currently use in his role.
+- [Julia Silge](https://juliasilge.com/blog/) - By Julia Silge, data scientist and software engineer at RStudio where she work on open source modeling tools. She is passionate about making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
 - [rweekly](https://rweekly.org/about) - Weekly Updates from the Entire R Community by Bruce Zhao, Colin Fay, Eric Nantz, Hao Zhu, Jon Calder, Jonathan Carroll, Maëlle Salmon, Ryo Nakagawara, and Wolfram Qin.
-- [r-bloggers](https://www.r-bloggers.com/) - By Tal Galili.
-- [r4stats](http://r4stats.com/blog/) - By Bob Muenchen.
-- [R Coder](https://r-coder.com/) - By J.C. Soage.
-- [Ryo Nakagawara](https://ryo-n7.github.io/) - By Ryo Nakagawara.
-- [Statistics Globe](https://statisticsglobe.com/) - By Joachim Schork.
+- [r-bloggers](https://www.r-bloggers.com/) - By Tal Galili, R-Bloggers.com is a blog aggregator of content contributed by bloggers who write about R (in English). The site helps R bloggers and users to connect and follow the “R blogosphere”.
+- [Ryo Nakagawara](https://ryo-n7.github.io/) - By Ryo Nakagawara who currently works for ACDI/VOCA, an international development NGO, as a Data Scientist. For the past 2.5 years he has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI/VOCA’s data pipeline and create R packages, reproducible reports, dashboards, Shiny apps to communicate how his projects worldwide are progressing.
+- [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 
 ## Books
 
@@ -133,8 +131,8 @@ Gerald Jay Sussman with Julie Sussman.
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## Podcasts
-- [Not so Standard Deviations](http://nssdeviations.com/) - By Roger Peng and Hilary Parker.
-- [The R-Podcast](https://r-podcast.org/) - By Eric Nantz.
+- [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
+- [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R’s capabilities to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
 ## YouTube
 
