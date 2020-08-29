@@ -77,12 +77,12 @@
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
-- [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen is a former bioinformatician/computational biologist turned data scientist turned software engineer who focuses on improving researchers interactions with the data they produce. 
+- [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen is a data scientist turned software engineer who focuses on improving researchers interactions with the data they produce.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) - Rebecca Barter enjoys making sense of complex, messy and sometimes nonsensical datasets, such as electronic health records, and insurance claims. Her dual passions are explaining “seemingly complicated” concepts to others in plain English, and exploring and uncovering the stories that underlie complex datasets.
 - [HighlandR](https://johnmackintosh.net/) - John Mackintosh's blog is a place for him to showcase demonstrations or workshops, notes he's learned at work, chart makeovers, and techniques and technology that he doesn't currently use in his role.
 - [Julia Silge](https://juliasilge.com/blog/) - Julia Silge is a data scientist and software engineer at RStudio where she work on open source modeling tools. She is passionate about making beautiful charts, the statistical programming language `R`, Jane Austen, black coffee, and red wine.
 - [rweekly](https://rweekly.org/about) - Weekly Updates from the Entire `R` Community by Bruce Zhao, Colin Fay, Eric Nantz, Hao Zhu, Jon Calder, Jonathan Carroll, Maëlle Salmon, Ryo Nakagawara, and Wolfram Qin.
-- [r-bloggers](https://www.r-bloggers.com/) - R-Bloggers.com was created by Tal Galili and is a blog aggregator of content contributed by bloggers who write about `R` (in English). The site helps `R` bloggers and users to connect and follow the “R blogosphere”.
+- [r-bloggers](https://www.r-bloggers.com/) - R-Bloggers.com was created by Tal Galili and is a blog aggregator of content contributed by bloggers who write about `R` (in English). The site helps `R` bloggers and users to connect and follow the `R` blogosphere.
 - [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and for the past 2.5 years has been doing work as both a reporting analyst and a software developer in `R` and `SQL` to improve ACDI/VOCA’s data pipeline and create `R` packages, reproducible reports, dashboards, Shiny apps to communicate how his projects worldwide are progressing.
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 
@@ -104,9 +104,9 @@
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with `R` as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with `R`. Author: Bruno Rodrigues.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in `R`. Author: Charles DiMaggio, PhD.
-- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`: You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund and Hadley Wickham.
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund and Hadley Wickham.
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Solutions and explanations for the exercises included in R for Data Science. Author: Jeffrey B. Arnold.
-- [R Packages](http://r-pkgs.had.co.nz/) - In this book you’ll learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
+- [R Packages](http://r-pkgs.had.co.nz/) - In this book you will learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of `R` programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
 - [Statistical Inference via Data Science](https://moderndive.com/) - This is intended to be a gentle introduction to the practice of analyzing data and answering questions using data the way data scientists, statisticians, data journalists, and other researchers would. Authors: Chester Ismay and Albert Y. Kim.
 - [Text Mining with R](https://www.tidytextmining.com/) - This book serves as an introduction of text mining using the tidytext package and other tidy tools in `R`. Authors: Julia Silge and David Robinson.
@@ -125,7 +125,7 @@
 > Podcasts that help strengthen your skills and understanding of the `R` programming language.  
 
 - [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
-- [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R’s capabilities to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
+- [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of `R` to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
 ### YouTube
 
