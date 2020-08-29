@@ -7,18 +7,15 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 
 ## **Contents**
+- [Learning Resources](learning-resources)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Communities of Practice](#communities-of-practice)
+  - [Podcasts](#podcasts)
+  - [YouTube](#youtube)
+  - [Contributing](#contributing)
 
-- [Topics](#topics)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Communities of Practice](#communities-of-practice)
-- [Podcasts](#podcasts)
-- [YouTube](#youtube)
-- [Contributing](#contributing)
-
-## Topics
-
-> `R` learning resources grouped by topic.
+## Learning Resources 
 
 *Functions*
 - [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
@@ -75,7 +72,7 @@
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of `base R` and `tidyverse` by Hugo Tavares.
 
 
-## Blogs
+### Blogs
 
 > Blogs that help strengthen your skills and understanding of the `R` programming language.  
 
@@ -91,7 +88,7 @@
 - [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and for the past 2.5 years has been doing work as both a reporting analyst and a software developer in `R` and `SQL` to improve ACDI/VOCA’s data pipeline and create `R` packages, reproducible reports, dashboards, Shiny apps to communicate how his projects worldwide are progressing.
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 
-## Books
+### Books
 
 > Books that help strengthen your skills and understanding of the `R` programming language.  
 
@@ -119,20 +116,20 @@
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - A book about trouble spots, oddities, traps, and glitches in `R`. Author: Patrick Burns.
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to `R` written by the authors of the `R` language.
 
-## Communities of Practice
+### Communities of Practice
 
 > A community of practice is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
-## Podcasts
+### Podcasts
 
 > Podcasts that help strengthen your skills and understanding of the `R` programming language.  
 
 - [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 - [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R’s capabilities to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
-## YouTube
+### YouTube
 
 > YouTube channels that help strengthen your skills and understanding of the `R` programming language.  
 
@@ -156,7 +153,7 @@
 - [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - YouTube channel created by Josh Starmer.
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ) - YouTube channel created by Ellis Hughes and Patrick Ward.
 
-## Contributing
+### Contributing
 - Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 [Back to Top](#contents)
