@@ -1,6 +1,6 @@
 # <div align="center">Awesome R Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
  
-**Curated collection of resources to help deepen your understanding of the R programming language.**
+**This list is a collection of resources related to `R`, a programming language and environment for statistical computing and graphics. It is meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.**
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 
