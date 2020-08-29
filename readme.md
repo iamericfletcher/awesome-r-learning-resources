@@ -66,8 +66,6 @@
 
 *Uncategorized*
 
-> R Learning resources grouped by topic.
-
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of `R` packages `data.table` and `dplyr` by Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
 - [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - A computer science textbook that covers fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. Authors: Harold Abelson and
@@ -95,37 +93,29 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Books
 
-- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - Author: Derek L. Sonderegger.
-- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
-- [Advanced R](https://adv-r.hadley.nz/introduction.html) - Author: Hadley Wickham.
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - Authors: W. N. Venables, D. M. Smith and the R Core Team.
-- [Answering Questions with Data](https://crumplab.github.io/statistics/) - Author: Matthew J. C. Crump.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - Author: Roger D. Peng.
-- [Geocomputation with R](https://geocompr.robinlovelace.net/) - Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
-- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - Author: Hadley Wickham.
-- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - Author: Gaston Sanchez.
-- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - Author: Professor Robert Hijmans.
-- [Learning Statistics with R](https://learningstatisticswithr.com/) - Author: Danielle Navarro.
-- [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - Author: Bruno Rodrigues.
-- [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Author: Julian Faraway.
-- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Author: Charles DiMaggio, PhD.
-- [R Cookbook, 2nd Edition](https://rc2e.com/index.html) - Authors: James (JD) Long, Paul Teetor.
-- [R for Data Science](https://r4ds.had.co.nz/) - Authors: Garrett Grolemund, Hadley Wickham.
-- [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Author: Jeffrey B. Arnold.
-- [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) - Author: Charles DiMaggio, PhD.
-- [R Language for Programmers](https://www.johndcook.com/blog/r_language_for_programmers) - Author: John Cook.
-- [R Packages](http://r-pkgs.had.co.nz/) - Author: Hadley Wickham.
-- [R Programming for Data Science](https://leanpub.com/rprogramming) - Author: Roger Peng.
-- [R Programming Tutorial](http://datantools.com/r-programming/getting-started-with-r-language/) - Author: Data & Tools.
-- [R programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - Author: WikiBooks.
-- [Statistical Inference via Data Science](https://moderndive.com/) - Authors: Chester Ismay and Albert Y. Kim.
-- [Text Mining with R](https://www.tidytextmining.com/) - Authors: Julia Silge and David Robinson.
-- [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - Author: Norman Matloff.
-- [The Caret Package](http://topepo.github.io/caret/index.html) - Author: Max Kuhn.
-- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Author: Patrick Burns.
-- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - By the Authors of R.
-- [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html) - Edited by Garrett Grolemund.
-- [YaRrr! The Pirates Guide to R](https://bookdown.org/ndphillips/YaRrr/) - Author: Nathaniel Phillips.
+- [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - This book is intended to guide people that are completely new to programming along a path towards a useful skill level using `R`. Author: Derek L. Sonderegger.
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - This book provides an introduction to statistical learning methods. Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+- [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for `R` programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes `R` different and special. Author: Hadley Wickham.
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - This introduction to `R` is derived from an original set of notes describing the `S` and `S-Plus` environments written in 1990–2 by Bill Venables and David M. Smith when at the University of Adelaide.
+- [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind, and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - This book covers the essential exploratory techniques for summarizing data with `R`. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Author: Roger D. Peng.
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) - This book is about using the power of computers to do things with geographic data. It teaches a range of spatial skills, including: reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena. Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - This book provides a hands-on introduction to `ggplot2` with lots of example code and graphics. It also explains the grammar on which `ggplot2` is based. Author: Hadley Wickham.
+- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - This ebook aims to help you get started with manipulating strings in R. Author: Gaston Sanchez.
+- [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. Author: Professor Robert Hijmans.
+- [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with `R` covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the `R` statistical software. Author: Danielle Navarro.
+- [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with `R` as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with `R`. Author: Bruno Rodrigues.
+- [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
+- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in `R`. Author: Charles DiMaggio, PhD.
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`: You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund, Hadley Wickham.
+- [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Solutions and explanations for the exercises included in R for Data Science. Author: Jeffrey B. Arnold.
+- [R Packages](http://r-pkgs.had.co.nz/) - In this book you’ll learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
+- [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of `R` programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
+- [Statistical Inference via Data Science](https://moderndive.com/) - This is intended to be a gentle introduction to the practice of analyzing data and answering questions using data the way data scientists, statisticians, data journalists, and other researchers would. Authors: Chester Ismay and Albert Y. Kim.
+- [Text Mining with R](https://www.tidytextmining.com/) - This book serves as an introduction of text mining using the tidytext package and other tidy tools in `R`. Authors: Julia Silge and David Robinson.
+- [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - This book is for those who wish to learn about developing software in `R`. Author: Norman Matloff.
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - A book about trouble spots, oddities, traps, and glitches in `R`. Author: Patrick Burns.
+- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to `R` written by the Authors of the `R` language.
 
 ## Communities of Practice
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
