@@ -16,7 +16,7 @@
 
 ## Topics
 
-> R learning resources grouped by topic.
+> `R` learning resources grouped by topic.
 
 *Functions*
 - [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
@@ -77,7 +77,7 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Blogs
 
-> Blogs that help strengthen your skills and understanding of the R programming language.  
+> Blogs that help strengthen your skills and understanding of the `R` programming language.  
 
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
@@ -93,6 +93,8 @@ Gerald Jay Sussman with Julie Sussman.
 
 ## Books
 
+> Books that help strengthen your skills and understanding of the `R` programming language.  
+
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - This book is intended to guide people that are completely new to programming along a path towards a useful skill level using `R`. Author: Derek L. Sonderegger.
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - This book provides an introduction to statistical learning methods. Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for `R` programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes `R` different and special. Author: Hadley Wickham.
@@ -107,7 +109,7 @@ Gerald Jay Sussman with Julie Sussman.
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with `R` as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with `R`. Author: Bruno Rodrigues.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in `R`. Author: Charles DiMaggio, PhD.
-- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`: You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund, Hadley Wickham.
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`: You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund and Hadley Wickham.
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Solutions and explanations for the exercises included in R for Data Science. Author: Jeffrey B. Arnold.
 - [R Packages](http://r-pkgs.had.co.nz/) - In this book you’ll learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of `R` programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
@@ -115,16 +117,24 @@ Gerald Jay Sussman with Julie Sussman.
 - [Text Mining with R](https://www.tidytextmining.com/) - This book serves as an introduction of text mining using the tidytext package and other tidy tools in `R`. Authors: Julia Silge and David Robinson.
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - This book is for those who wish to learn about developing software in `R`. Author: Norman Matloff.
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - A book about trouble spots, oddities, traps, and glitches in `R`. Author: Patrick Burns.
-- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to `R` written by the Authors of the `R` language.
+- [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to `R` written by the authors of the `R` language.
 
 ## Communities of Practice
+
+> A community of practice is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
+
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## Podcasts
+
+> Podcasts that help strengthen your skills and understanding of the `R` programming language.  
+
 - [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 - [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R’s capabilities to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
 ## YouTube
+
+> YouTube channels that help strengthen your skills and understanding of the `R` programming language.  
 
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - YouTube channel created by Andrew Couch.
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - YouTube channel created by Ben Stenhaug.
