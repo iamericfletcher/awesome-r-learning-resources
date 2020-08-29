@@ -4,7 +4,7 @@
 
 - Before creating a PR, you should ensure that:
 
-1. Your suggestion is related to the `R` programming language.
+1. Your suggestion is related to the `R` programming language. This list is meant for the curation of the best resources, not everything.
 
 2. Your suggestion is not already in the list.
 
