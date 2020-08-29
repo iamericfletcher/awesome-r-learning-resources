@@ -1,7 +1,5 @@
 # <div align="center">Awesome R Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
  
- <img src="https://user-images.githubusercontent.com/64165327/91646694-eb40ce00-ea1f-11ea-9096-2f66613c40b0.png" align="right" width="90">
- 
 **Curated collection of resources to help deepen your understanding of the R programming language.**
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iamericfletcher/R-Learning-Resources) | ![GitHub last commit](https://img.shields.io/github/last-commit/iamericfletcher/R-Learning-Resources) | [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
