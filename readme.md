@@ -6,7 +6,7 @@
 
 ## **Contents**
 
-- [Subjects](#subjects)
+- [Topics](#topics)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Communities of Practice](#communities-of-practice)
@@ -14,7 +14,9 @@
 - [YouTube](#youtube)
 - [Contributing](#contributing)
 
-## Subjects
+## Topics
+
+> R Learning resources grouped by topic.
 
 *Functions*
 - [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the `R` language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
@@ -62,7 +64,9 @@
 - [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) - By Suzan Baert.
 - [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/) - By Suzan Baert.
 
-*Other*
+*Uncategorized*
+
+> R Learning resources grouped by topic.
 
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of `R` packages `data.table` and `dplyr` by Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
@@ -71,9 +75,12 @@ Gerald Jay Sussman with Julie Sussman.
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the `R` programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using `R` for statistical computing.
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of `base R` and `tidyverse` by Hugo Tavares.
-- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) - Author: V. Anton Spraul.
+- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.academia.edu/30403294/Think_Like_a_Programmer_pdf) - Author V. Anton Spraul breaks down the ways that programmers solve problems.
 
 ## Blogs
+
+> Blogs that will help you improve your R programming skills.
+
 - [Avery Robbins](https://www.avery-robbins.com) - By Avery Robbins.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - By Tony ElHabr.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - By Cédric Scherer.
