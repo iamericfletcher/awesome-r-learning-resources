@@ -76,8 +76,6 @@
 
 ### Blogs
 
-> Blogs that help strengthen your skills and understanding of the R programming language.  
-
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
@@ -91,8 +89,6 @@
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 
 ### Books
-
-> Books that help strengthen your skills and understanding of the R programming language.  
 
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) - This book is intended to guide people that are completely new to programming along a path towards a useful skill level using R. Author: Derek L. Sonderegger.
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - This book provides an introduction to statistical learning methods. Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
@@ -124,16 +120,12 @@
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
-### Podcasts
-
-> Podcasts that help strengthen your skills and understanding of the R programming language.  
+### Podcasts 
 
 - [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 - [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
 ### YouTube
-
-> YouTube channels that help strengthen your skills and understanding of the R programming language.  
 
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - YouTube channel created by Andrew Couch.
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - YouTube channel created by Ben Stenhaug.
