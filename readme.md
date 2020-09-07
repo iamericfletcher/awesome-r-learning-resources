@@ -109,6 +109,7 @@
 - [R Packages](http://r-pkgs.had.co.nz/) - In this book you will learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
 - [Statistical Inference via Data Science](https://moderndive.com/) - This is intended to be a gentle introduction to the practice of analyzing data and answering questions using data the way data scientists, statisticians, data journalists, and other researchers would. Authors: Chester Ismay and Albert Y. Kim.
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. Authors: Emil Hvitfeldt and Julia Silge.
 - [Text Mining with R](https://www.tidytextmining.com/) - This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. Authors: Julia Silge and David Robinson.
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - This book is for those who wish to learn about developing software in R. Author: Norman Matloff.
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - A book about trouble spots, oddities, traps, and glitches in R. Author: Patrick Burns.
