@@ -114,6 +114,7 @@
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) - This book is for those who wish to learn about developing software in R. Author: Norman Matloff.
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - A book about trouble spots, oddities, traps, and glitches in R. Author: Patrick Burns.
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to R written by the authors of the R language.
+- [Tidy Modeling with R](https://www.tmwr.org/) - This book is a guide to using a new collection of software in the R programming language for model building.
 
 ### Communities of Practice
 
