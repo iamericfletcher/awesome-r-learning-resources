@@ -41,6 +41,7 @@
 - [Awesome R Shiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny (created by Rob Gilmore).
 - [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. (created by RStudio).
 - [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. (created by Dean Attali).
+- [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. (created by Garrett Grolemund).
 - [Learn Shiny](https://shiny.rstudio.com/tutorial/) - The video and written tutorials on this page are primarily designed for users who are new to Shiny and want a guided introduction. (created by RStudio).
 - [Shiny Articles](https://shiny.rstudio.com/articles/) - Various articles covering individual Shiny topics at a more advanced level. (created by RStudio).
 
