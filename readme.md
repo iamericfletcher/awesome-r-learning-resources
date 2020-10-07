@@ -39,6 +39,7 @@
 *Shiny*
 
 - [Awesome R Shiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny (created by Rob Gilmore).
+- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. (created by Dean Attali).
 
 *Viz*
 
