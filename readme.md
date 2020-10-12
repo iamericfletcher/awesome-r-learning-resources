@@ -15,7 +15,6 @@
 - [Communities of Practice](#communities-of-practice)
 - [Podcasts](#podcasts)
 - [YouTube](#youtube)
-- [Contributing](#contributing)
 
 ## Resources 
 
