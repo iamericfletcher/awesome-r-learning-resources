@@ -5,7 +5,8 @@
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
 </div>
- 
+<br>
+<br>
 > Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.
  
 `R` is a programming language and environment for statistical computing and graphics.
