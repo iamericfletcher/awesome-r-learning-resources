@@ -39,7 +39,7 @@
 - [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - By Henry Cann.
 - [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - By Brecht Vermeire.
 - [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - By Laura Ellis.
-- [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - From the math et al YoutTube channel.
+- [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - From the "math et al" YouTube channel.
 
 ### Shiny
 
