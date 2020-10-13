@@ -3,7 +3,7 @@
 		<a href=https://www.r-project.org/about.html><img width="300" height="300" id="im" src=https://user-images.githubusercontent.com/64165327/91648174-47ace900-ea32-11ea-9f0e-e9b9df74c6c7.png></a>
 	</div>
 	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
 </div>
  
 > Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.
