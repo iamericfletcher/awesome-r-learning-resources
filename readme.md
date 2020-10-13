@@ -1,6 +1,6 @@
-# <div align="center">Awesome R Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
- 
- [<img src="https://user-images.githubusercontent.com/64165327/91648174-47ace900-ea32-11ea-9f0e-e9b9df74c6c7.png" align="right" width="90">](https://www.r-project.org/about.html)
+<p align="center">
+<a href=https://www.r-project.org/about.html><img width="300" height="300" id="im" src=https://user-images.githubusercontent.com/64165327/91648174-47ace900-ea32-11ea-9f0e-e9b9df74c6c7.png></a>
+ </p>
  
 > Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.
  
