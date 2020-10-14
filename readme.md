@@ -29,59 +29,59 @@
 
 ### Math
 
-- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. By Salvatore S. Mangiafico.
-- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathmatical topics to master to become a better data scientist. By Tirthajyoti Sarkar.
-- [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - By NIST/SEMATECH.
-- [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - A tutorial for plotting a distribution of data. By Winston Chang.
+- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. Author: Salvatore S. Mangiafico.
+- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathmatical topics to master to become a better data scientist. Author: Tirthajyoti Sarkar.
+- [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Author: NIST/SEMATECH.
+- [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - A tutorial for plotting a distribution of data. Author: Winston Chang.
 
 ### Spatial
 
-- [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - By Henry Cann.
-- [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - By Brecht Vermeire.
-- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - By Laura Ellis.
+- [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - Author: Henry Cann.
+- [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - Author: Brecht Vermeire.
+- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - Author: Laura Ellis.
 - [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - From the "math et al" YouTube channel.
 
 ### Shiny
 
-- [Awesome R Shiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny (created by Rob Gilmore).
-- [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. (created by RStudio).
-- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. (created by Dean Attali).
+- [Awesome R Shiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
+- [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. Author: RStudio.
+- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
 - [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. (created by Garrett Grolemund).
-- [Learn Shiny](https://shiny.rstudio.com/tutorial/) - The video and written tutorials on this page are primarily designed for users who are new to Shiny and want a guided introduction. (created by RStudio).
-- [Shiny Articles](https://shiny.rstudio.com/articles/) - Various articles covering individual Shiny topics at a more advanced level. (created by RStudio).
+- [Learn Shiny](https://shiny.rstudio.com/tutorial/) - The video and written tutorials on this page are primarily designed for users who are new to Shiny and want a guided introduction. Author: RStudio.
+- [Shiny Articles](https://shiny.rstudio.com/articles/) - Various articles covering individual Shiny topics at a more advanced level. Author: RStudio.
 
 ### Viz
 
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. (created by Erik Gahner Larsen).
-- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - By Andrew Abela, Ph.D.
-- [Color Hex Color Codes](https://www.color-hex.com/) - By the people at Color-Hex.
-- [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - By Alboukadel Kassambara.
-- [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. By Yan Holtz.
+- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf). Author: Andrew Abela, Ph.D.
+- [Color Hex Color Codes](https://www.color-hex.com/) - Author: the people at Color-Hex.
+- [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
+- [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. Author: Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
-- [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. By the developers of Tidyverse.
-- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. By Antoine Soetewey.
-- [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r created by Emil Hvitfeldt.
+- [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
+- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
+- [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a library of different information visualisation types.
-- [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. By Jonathan Schwabish, and Severino Ribecca.
-- [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. By Yan Holtz.
-- [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - By Laura Ellis.
-- [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. By Selva Prabhakaran.
+- [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. Authors: Jonathan Schwabish, and Severino Ribecca.
+- [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
+- [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
+- [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. Author: Selva Prabhakaran.
 
 ### Wrangling
 
-- [Data manipulation in r using data frames - an extensive article of basics](https://www.dataenq.com/2020/08/data-manipulation-in-r-using-data-frame.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29) - By dataENQ.
-- [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) - By Suzan Baert.
-- [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/) - By Suzan Baert.
-- [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) - By Suzan Baert.
-- [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/) - By Suzan Baert.
+- [Data manipulation in r using data frames - an extensive article of basics](https://www.dataenq.com/2020/08/data-manipulation-in-r-using-data-frame.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29) - Author: dataENQ.
+- [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) - Author: Suzan Baert.
+- [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/) - Author: Suzan Baert.
+- [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) - Author: Suzan Baert.
+- [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/) - Author: Suzan Baert.
 
 ### Uncategorized
 
-- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr by Atrebas.
-- [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - By Colin Fay.
+- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
+- [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - Author: Colin Fay.
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the R programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using R for statistical computing.
-- [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of base R and tidyverse by Hugo Tavares.
+- [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of base R and tidyverse. Author: Hugo Tavares.
 
 
 ## Blogs
