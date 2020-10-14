@@ -59,7 +59,7 @@
 - [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. By Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. By the developers of Tidyverse.
-- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/#facets) - A detailed guide for the use of graphics within ggplot2. By Antoine Soetewey.
+- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. By Antoine Soetewey.
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r created by Emil Hvitfeldt.
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a library of different information visualisation types.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. By Jonathan Schwabish, and Severino Ribecca.
@@ -97,6 +97,7 @@
 - [r-bloggers](https://www.r-bloggers.com/) - R-Bloggers.com was created by Tal Galili and is a blog aggregator of content contributed by bloggers who write about R (in English). The site helps R bloggers and users to connect and follow the R blogosphere.
 - [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI and VOCA data pipelines, create R packages, reproducible reports, dashboards, and Shiny apps to communicate how his projects worldwide are progressing.
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
+- [Stats and R](https://www.statsandr.com/) - Through his blog, Antoine Soetewey (PhD in statistics) aims at helping academics and professionals working with data to grasp important statistical concepts, and shows how to apply them in R.
 
 ## Books
 
