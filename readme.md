@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<a href=https://www.r-project.org/about.html><img width="300" height="300" id="im" src=https://user-images.githubusercontent.com/64165327/95932638-61b04a00-0d9a-11eb-8156-5df58c3ead9d.png></a>
+		<a href=https://www.r-project.org/about.html><img width="300" height="300" id="im" src=https://user-images.githubusercontent.com/64165327/95932732-a6d47c00-0d9a-11eb-8a6c-6a911d4c7b98.png></a>
 	</div>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
