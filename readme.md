@@ -8,7 +8,7 @@
 
 <br>
 
-> Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgable programming population that benefits everybody involved.
+> Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgeable programming population that benefits everybody involved.
  
 `R` is a programming language and environment for statistical computing and graphics.
 
@@ -25,12 +25,12 @@
 ## Topic Areas 
 
 ### Functions
-- [stat.berkeley - Introdcution to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the R language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
+- [stat.berkeley - Introduction to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the R language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
 
 ### Math
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. Author: Salvatore S. Mangiafico.
-- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathmatical topics to master to become a better data scientist. Author: Tirthajyoti Sarkar.
+- [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathematical topics to master to become a better data scientist. Author: Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Author: NIST/SEMATECH.
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - A tutorial for plotting a distribution of data. Author: Winston Chang.
 
@@ -61,7 +61,7 @@
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
 - [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a library of different information visualisation types.
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualization Catalogue is a project developed by Severino Ribecca to create a library of different information visualization types.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. Authors: Jonathan Schwabish, and Severino Ribecca.
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
@@ -89,7 +89,7 @@
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
-- [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen is a data scientist turned software engineer who focuses on improving researchers interactions with the data they produce.
+- [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen is a data scientist turned software engineer who focuses on improving researchers’ interactions with the data they produce.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) - Rebecca Barter enjoys making sense of complex, messy and sometimes nonsensical datasets, such as electronic health records, and insurance claims. Her dual passions are explaining “seemingly complicated” concepts to others in plain English, and exploring and uncovering the stories that underlie complex datasets.
 - [HighlandR](https://johnmackintosh.net/) - John Mackintosh's blog is a place for him to showcase demonstrations or workshops, notes he's learned at work, chart makeovers, and techniques and technology that he doesn't currently use in his role.
 - [Julia Silge](https://juliasilge.com/blog/) - Julia Silge is a data scientist and software engineer at RStudio where she work on open source modeling tools. She is passionate about making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
@@ -105,19 +105,19 @@
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - This book provides an introduction to statistical learning methods. Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for R programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes R different and special. Author: Hadley Wickham.
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - This introduction to R is derived from an original set of notes describing the S and S-Plus environments written in 1990–2 by Bill Venables and David M. Smith when at the University of Adelaide.
-- [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind, and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
+- [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) - This book covers the process of building a Shiny application that will later be sent to production. Authors: Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard.
 - [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - This book covers the essential exploratory techniques for summarizing data with R. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Author: Roger D. Peng.
-- [Geocomputation with R](https://geocompr.robinlovelace.net/) - This book is about using the power of computers to do things with geographic data. It teaches a range of spatial skills, including: reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena. Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) - This book is about using the power of computers to do things with geographic data. It teaches a range of spatial skills, including reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena. Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - This book provides a hands-on introduction to ggplot2 with lots of example code and graphics. It also explains the grammar on which ggplot2 is based. Author: Hadley Wickham.
-- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - This ebook aims to help you get started with manipulating strings in R. Author: Gaston Sanchez.
+- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - This eBook aims to help you get started with manipulating strings in R. Author: Gaston Sanchez.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. Author: Professor Robert Hijmans.
 - [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. Author: Danielle Navarro.
 - [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book currently under early development and intended for a late 2020 release. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham.
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in R. Author: Charles DiMaggio, PhD.
-- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. Authors: Garrett Grolemund and Hadley Wickham.
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. Authors: Garrett Grolemund and Hadley Wickham.
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Solutions and explanations for the exercises included in R for Data Science. Author: Jeffrey B. Arnold.
 - [R Packages](http://r-pkgs.had.co.nz/) - In this book you will learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
 - [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
