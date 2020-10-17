@@ -24,7 +24,12 @@
 
 ## Topic Areas 
 
+### Generative Art
+
+- [12 Months of aRt](https://www.williamrchase.com/work/art/) - In 2019, William Chase, began a project to make a new series of artwork every month made entirely with R. In this project, he explores different techniques, develop algorithms, and blogs about it each month. 
+
 ### Functions
+
 - [stat.berkeley - Introduction to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the R language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
 
 ### Math
