@@ -26,7 +26,7 @@
 
 ### Generative Art
 
-- [12 Months of aRt](https://www.williamrchase.com/work/art/) - In 2019, William Chase began a project to make a new series of artwork every month made entirely with R. In this project, he explored different techniques, developed algorithms, and provided detailed blog posts for each month. 
+- [12 Months of aRt](https://www.williamrchase.com/work/art/) - In 2019, William Chase began a project to make a new series of artwork every month made entirely with R. In this project, he explored different techniques, developed algorithms, and provided detailed posts detailing the development process for each month.
 
 ### Functions
 
