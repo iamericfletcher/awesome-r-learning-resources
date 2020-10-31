@@ -65,7 +65,7 @@
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
 - [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
-- [htmlwidgets for R](https://htmlwidgets.org/) - Showcase and gallery of the various interactive web visualizations you can build using R. 
+- [htmlwidgets for R](https://www.htmlwidgets.org/) - Showcase and gallery of the various interactive web visualizations you can build using R. 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualization Catalogue is a project developed by Severino Ribecca to create a library of different information visualization types.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. Authors: Jonathan Schwabish, and Severino Ribecca.
