@@ -85,7 +85,7 @@
 
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - Author: Colin Fay.
--[R - discoRd server](https://discord.gg/88uG5UVyE2) - Dedicated discoRd server with the following topic-based channels: `R-Main` for more general discussions, `R-Share` for showing off your data visuals, `General R Help` for asking questions and sharing learning resources, and `Topical Help/Discussion` for issues dealing with statistics, dbi, tidymodels, shiny, natural-science, social-science, bayesians, gis, and finance. 
+- [R - discoRd server](https://discord.gg/88uG5UVyE2) - Dedicated discoRd server with the following topic-based channels: `R-Main` for more general discussions, `R-Share` for showing off your data visuals, `General R Help` for asking questions and sharing learning resources, and `Topical Help/Discussion` for issues dealing with statistics, dbi, tidymodels, shiny, natural-science, social-science, bayesians, gis, and finance. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the R programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using R for statistical computing.
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of base R and tidyverse. Author: Hugo Tavares.
