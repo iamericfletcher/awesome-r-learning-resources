@@ -88,6 +88,7 @@
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the R programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using R for statistical computing.
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html) - A detailed comparison of base R and tidyverse. Author: Hugo Tavares.
+- [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html) - Find code for dozens of data tasks in this searchable cheat sheet of R data.table and Tidyverse code. Author: Sharon Machlis.
 
 
 ## Blogs
