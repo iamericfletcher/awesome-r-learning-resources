@@ -131,6 +131,7 @@
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in R. Author: Charles DiMaggio, PhD.
 - [Quantitative Politics with R](http://qpolr.com/qpolr.pdf) - The aim of this book is to provide an easily accessible introduction to R for the
 collection, study and presentation of different types of political data. Authors: Erik Gahner Larsen and Zoltán Fazekas.
+- [R Cookbook, 2nd Edition](https://rc2e.com/index.html) - This book is full of how-to recipes, each of which solves a specific problem. The recipe includes a quick introduction to the solution followed by a discussion that aims to unpack the solution and give you some insight into how it works. Authors: James (JD) Long.
 - [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. Authors: Garrett Grolemund and Hadley Wickham.
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - Solutions and explanations for the exercises included in R for Data Science. Author: Jeffrey B. Arnold.
 - [R Packages](http://r-pkgs.had.co.nz/) - In this book you will learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
