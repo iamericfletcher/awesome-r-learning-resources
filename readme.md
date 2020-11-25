@@ -94,6 +94,7 @@
 
 ## Blogs
 
+- [Alex Cookson](https://www.alexcookson.com/) - Alex Cookson loves making beautiful visualizations and easy-to-read walkthroughs of R concepts. He's particularly interested in data about media, like books, movies, and musicals.
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
