@@ -32,6 +32,10 @@
 
 - [stat.berkeley - Introduction to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the R language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
 
+### Joining Data
+
+- [Joining Data in R with dplyr](https://rpubs.com/williamsurles/293454) - Course notes from the Joining Data in R with dplyr course on DataCamp. Topics include mutating joins, filtering joins and set operations, assembling data, advanced joining. Author: William Surles.
+
 ### Math
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. Author: Salvatore S. Mangiafico.
