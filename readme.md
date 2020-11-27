@@ -43,13 +43,6 @@
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Author: NIST/SEMATECH.
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/) - A tutorial for plotting a distribution of data. Author: Winston Chang.
 
-### Spatial
-
-- [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - Author: Henry Cann.
-- [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - Author: Brecht Vermeire.
-- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - Author: Laura Ellis.
-- [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - From the "math et al" YouTube channel.
-
 ### Shiny
 
 - [Awesome R Shiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
@@ -58,6 +51,13 @@
 - [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. Author: Garrett Grolemund.
 - [Learn Shiny](https://shiny.rstudio.com/tutorial/) - The video and written tutorials on this page are primarily designed for users who are new to Shiny and want a guided introduction. Author: RStudio.
 - [Shiny Articles](https://shiny.rstudio.com/articles/) - Various articles covering individual Shiny topics at a more advanced level. Author: RStudio.
+
+### Spatial
+
+- [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - Author: Henry Cann.
+- [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - Author: Brecht Vermeire.
+- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - Author: Laura Ellis.
+- [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - From the "math et al" YouTube channel.
 
 ### Viz
 
