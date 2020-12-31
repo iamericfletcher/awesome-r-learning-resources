@@ -166,6 +166,7 @@ collection, study and presentation of different types of political data. Authors
 > A community of practice is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+- [R for Data Science Online Learning Community](https://www.rfordatasci.com/) - In August of 2017, Jessie Mostipak (@kierisi) launched an experiment, referred to as the R for Data Science Online Learning Community, with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science book by Garrett Grolemund and Hadley Wickham. The aim of the group has since expanded. While we still highly recommend reading R for Data Science, we have grown into a community of R learners at all skill levels working together to improve their skills.
 
 ## Podcasts 
 
