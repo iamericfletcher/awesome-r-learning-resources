@@ -31,6 +31,12 @@
 
 ## Topic Areas 
 
+### Comprehensive Tutorials
+
+- [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert). 
+- [R CODER](https://r-coder.com) - The tutorials are grouped into categories (introduction, data structures, data wrangling, programming, import & export, graphics) that cover in-depth all the basic needs for someone starting learning the R programming language. 
+- [Tutorials Point](https://r-coder.com) - The tutorials are grouped into categories (R tutorial, R Data Interfaces, R Charts & Graphs, R Statistics Examples, R Useful Resources) that cover in-depth all the basic needs for someone starting learning the R programming language.
+
 ### Functions
 
 - [stat.berkeley - Introduction to Functions](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/functions.pdf) - An introduction to functions in the R language by the organizers of Integrating Computing into the Statistics Curricula (U.C. Berkeley).
@@ -128,7 +134,7 @@
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for R programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes R different and special. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) Author: Hadley Wickham.
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - This introduction to R is derived from an original set of notes describing the S and S-Plus environments written in 1990–2 by Bill Venables and David M. Smith when at the University of Adelaide.
 - [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
-- [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
+- [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency. Authors: Colin Gillespie, Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) - This book covers the process of building a Shiny application that will later be sent to production. Authors: Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard.
 - [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - This book covers the essential exploratory techniques for summarizing data with R. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Author: Roger D. Peng.
