@@ -35,7 +35,7 @@
 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert). 
 - [R CODER](https://r-coder.com) - The tutorials are grouped into categories (introduction, data structures, data wrangling, programming, import & export, graphics) that cover in-depth all the basic needs for someone starting learning the R programming language. 
-- [Tutorials Point](https://r-coder.com) - The tutorials are grouped into categories (R tutorial, R Data Interfaces, R Charts & Graphs, R Statistics Examples, R Useful Resources) that cover in-depth all the basic needs for someone starting learning the R programming language.
+- [Tutorials Point](https://www.tutorialspoint.com/r/index.htm) - The tutorials are grouped into categories (R tutorial, R Data Interfaces, R Charts & Graphs, R Statistics Examples, R Useful Resources) that cover in-depth all the basic needs for someone starting learning the R programming language.
 
 ### Functions
 
