@@ -31,7 +31,7 @@
 
 ## Topic Areas 
 
-### Comprehensive Tutorials
+### Comprehensive R Tutorials
 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert). 
 - [R CODER](https://r-coder.com) - The tutorials are grouped into categories (introduction, data structures, data wrangling, programming, import & export, graphics) that cover in-depth all the basic needs for someone starting learning the R programming language. 
@@ -101,7 +101,8 @@
 
 ### Uncategorized
 
-- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
+- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
+- [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/) - A quick introduction to data.table. The main objective is to present the data.table syntax, showing how to perform basic, but essential, data wrangling tasks. Author: Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - Author: Colin Fay.
 - [R - discoRd server](https://discord.gg/88uG5UVyE2) - Dedicated discoRd server with the following topic-based channels: `R-Main` for more general discussions, `R-Share` for showing off your data visuals, `General R Help` for asking questions and sharing learning resources, and `Topical Help/Discussion` for issues dealing with statistics, dbi, tidymodels, shiny, natural-science, social-science, bayesians, gis, and finance. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the R programming language for statistics and data science.
