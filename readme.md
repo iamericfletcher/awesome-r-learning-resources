@@ -15,7 +15,7 @@
 > The `R` `Discord` server is a friendly and dedicated community for `R` enthusiasts, programmers, statisticians, data scientists, and students. Whether you are looking to connect with fellow useRs, have awesome data viz to share, or just needed help with your stats assignment, you are at the right place! 
 
 <div align="center">
-	To join the R Discord server, please click the `discoRd` badge below. <br>
+	To join the R Discord server, please click the discoRd badge below. <br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
 
