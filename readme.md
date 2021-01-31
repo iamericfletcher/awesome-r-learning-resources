@@ -13,7 +13,7 @@
 `R` is a programming language and environment for statistical computing and graphics.
 
 <div align="center">
-	Join the R Discord by clicking the badge below. <br>
+	Join the R Discord server by clicking the badge below: <br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
 
