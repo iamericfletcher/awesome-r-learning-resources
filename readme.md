@@ -21,8 +21,9 @@
 <br>
 </div>
 
+
 <div align="center">
-Black Lives Matter.
+	Black Lives Matter.
 <br>
 Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
 <br>
@@ -30,7 +31,7 @@ Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/do
 The racism and hate crimes toward Asian Americans must end.
 <br>
 Please consider making a [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) today.
-
+<br>
 </div>
 
 <br>
