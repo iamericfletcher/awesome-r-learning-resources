@@ -23,7 +23,8 @@
 
 
 <div align="center">
-	Black Lives Matter.
+	
+Black Lives Matter.
 <br>
 Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
 <br>
