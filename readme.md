@@ -19,6 +19,10 @@
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
 
+Black Lives Matter. Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
+
+The racism and hate crimes toward Asian Americans must end. Please consider making a [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) today.
+
 </div>
 
 <br>
