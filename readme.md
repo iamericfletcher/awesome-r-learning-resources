@@ -18,7 +18,7 @@
 	To join the R Discord server, please click the discoRd badge below. <br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
-
+<br>
 Black Lives Matter.
 <br>
 Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
