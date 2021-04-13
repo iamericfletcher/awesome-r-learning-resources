@@ -70,7 +70,6 @@ Please consider making a [donation in support of Asian communites](https://nymag
 ### Math
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. Author: Salvatore S. Mangiafico.
-
 - [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/) - This article explains how to compute the main descriptive statistics in R and how to present them graphically. Author - Antoine Soetewey.
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd) - An article discussing the key mathematical topics to master to become a better data scientist. Author: Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Author: NIST/SEMATECH.
