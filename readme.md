@@ -98,6 +98,7 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
+- [Coolors](https://coolors.co/) - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes. Features include color picker, pick palette from photo, create a collage, make your own gradient palette, create a gradient, contrast checker, etc.
 - [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. Author: Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
