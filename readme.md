@@ -56,6 +56,7 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Intro to R course by Fabio Votta - part 2](https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing) - A fun introduction to R programming grouped into categories (data manipulation and cleaning featuring the janitor, tidyr, and dplyr packages).
 - [R CODER](https://r-coder.com) - The tutorials are grouped into categories (introduction, data structures, data wrangling, programming, import & export, graphics) that cover in-depth all the basic needs for someone starting learning the R programming language. 
 - [Tutorials Point](https://www.tutorialspoint.com/r/index.htm) - The tutorials are grouped into categories (R tutorial, R Data Interfaces, R Charts & Graphs, R Statistics Examples, R Useful Resources) that cover in-depth all the basic needs for someone starting learning the R programming language.
+- [Introduction to Data Analysis with R](https://jmbuhr.de/dataIntro20/) - This is a lecture series with videos and scripts as well as exercises introducing R and the tidyverse as well as statistical concepts.
 
 ### Functions
 
