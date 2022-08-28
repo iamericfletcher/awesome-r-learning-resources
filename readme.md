@@ -201,6 +201,9 @@ collection, study and presentation of different types of political data. Authors
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) - An introduction to R written by the authors of the R language.
 - [Tidy Modeling with R](https://www.tmwr.org/) - This book is a guide to using a new collection of software in the R programming language for model building.
 
+## Courses
+- [bestcourses](https://www.bestcourses.io/) - Discover & compare online courses from dozens of online learning platforms.
+
 ## Communities of Practice
 
 > A community of practice is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
