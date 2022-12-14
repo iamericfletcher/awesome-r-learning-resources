@@ -22,23 +22,6 @@
 </div>
 <br>
 
-<div align="center">
-
-Black Lives Matter.
-<br>
-Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
-<br>
-<br>
-The racism and hate crimes toward Asian Americans must end.
-<br>
-Please consider making a [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) today.
-<br>
-</div>
-
-<br>
-
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
-
 ## **Contents**
 - [Topic Areas](#topic-areas)
 - [Blogs](#blogs)
