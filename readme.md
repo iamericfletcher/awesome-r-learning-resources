@@ -96,6 +96,7 @@
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. Author: Selva Prabhakaran.
+- [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
 
 ### Web Scraping
 
