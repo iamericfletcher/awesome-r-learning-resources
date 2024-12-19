@@ -79,6 +79,7 @@
 
 ### Viz
 
+- [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) - A comprehensive and easy to follow tutorial that covers working with axes, titles, legends, backgrounds, grid lines, margins, multi-panel plots, colors, themes, lines, text, coordinates, chart types, ribbons, smoothings, and interactive plots. Author: Cédric Scherer.
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 - [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
@@ -96,7 +97,6 @@
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. Author: Selva Prabhakaran.
-- [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
 
 ### Web Scraping
 
