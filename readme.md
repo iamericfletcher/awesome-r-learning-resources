@@ -139,6 +139,7 @@
 - [Ryo Nakagawara](https://ryo-n7.github.io/) - Ryo Nakagawara is a Data Scientist and has been doing work as both a reporting analyst and a software developer in R and SQL to improve ACDI and VOCA data pipelines, create R packages, reproducible reports, dashboards, and Shiny apps to communicate how his projects worldwide are progressing.
 - [Statistics Globe](https://statisticsglobe.com/) - Joachim Schork started this platform to share his statistical know-how and to improve his own statistical skills by discussing with other statisticians and programmers.
 - [Stats and R](https://www.statsandr.com/) - Through his blog, Antoine Soetewey (PhD in statistics) aims at helping academics and professionals working with data to grasp important statistical concepts, and shows how to apply them in R.
+- [Tidy Ecology](https://tidyecology.com/) - Free R tutorials for ecologists, from diversity indices and ordination to occupancy, capture-recapture and population models, each with runnable code and a downloadable R script.
 
 ## Books
 
